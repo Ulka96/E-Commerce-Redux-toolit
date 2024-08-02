@@ -8,9 +8,9 @@ const CartPage = () => {
   return (
     <div className="space-y-10">
       <CartHeader/>
-      {/* Cart Top */}
+
       <CartItems/>
-      {/* Cart Bottom */}
+
        <CartBottom/>
     </div>
   );
