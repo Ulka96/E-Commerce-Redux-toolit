@@ -1,0 +1,262 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Boxy fit short sleeve T-shirt",
+      "price": 15.99,
+      "color": "000",
+      "size": [
+        "XS",
+        "S",
+        "M"
+      ],
+      "category": "Shirts",
+      "image": "https://static.bershka.net/assets/public/d5f3/3399/64804dc9ac3e/0183e0630610/08003154800-a4o/08003154800-a4o.jpg?ts=1721031405642&w=800"
+    },
+    {
+      "id": "2",
+      "name": "Wide fit tailored Bermuda shorts",
+      "price": 29.99,
+      "color": "000",
+      "size": [
+        "S",
+        "L",
+        "XL"
+      ],
+      "category": "Shorts",
+      "image": "https://static.bershka.net/4/photos2/2024/V/0/2/p/3344/602/800/3344602800_2_4_0.jpg?imwidth=800&ts=1715072276437"
+    },
+    {
+      "id": "3",
+      "name": "Geometric crochet short sleeve shirt",
+      "price": 39.99,
+      "color": "C38930",
+      "size": [
+        "XS",
+        "S",
+        "M"
+      ],
+      "category": "Shorts",
+      "image": "https://static.bershka.net/assets/public/87d8/786c/9e6d4894ba4b/65dbd2a93fbf/06374494300-a4o/06374494300-a4o.jpg?ts=1719477628855&w=800"
+    },
+    {
+      "id": "4",
+      "name": "Tailored jogging trousers",
+      "price": 29.99,
+      "color": "211815",
+      "size": [
+        "S",
+        "L",
+        "XL"
+      ],
+      "category": "Trousers",
+      "image": "https://static.bershka.net/assets/public/31f4/6cda/90764e2d9c6c/ab3fe231fa19/05419228700-a4o/05419228700-a4o.jpg?ts=1718779747858&w=800"
+    },
+    {
+      "id": "5",
+      "name": "Basic swimming trunks",
+      "price": 15.99,
+      "color": "BACCE2",
+      "size": [
+        "XS",
+        "S",
+        "M"
+      ],
+      "category": "Swimwear",
+      "image": "https://static.bershka.net/4/photos2/2024/V/0/2/p/4790/305/403/4790305403_2_4_0.jpg?imwidth=800&ts=1702997166625"
+    },
+    {
+      "id": "6",
+      "name": "Skater jeans",
+      "price": 35.99,
+      "color": "4E5D6E",
+      "size": [
+        "XS",
+        "S",
+        "M"
+      ],
+      "category": "Jeans",
+      "image": "https://static.bershka.net/assets/public/8b08/a56c/7d2e4659b0a9/df372604494d/05342666432-a4o/05342666432-a4o.jpg?ts=1720623473820&w=800"
+    },
+    {
+      "id": "7",
+      "name": "Tailored jogging trousers",
+      "price": 29.99,
+      "color": "000",
+      "size": [
+        "S",
+        "L",
+        "XL"
+      ],
+      "category": "Trousers",
+      "image": "https://static.bershka.net/assets/public/0bf5/a800/aedf42069d9e/71d71165b7e3/05419228800-a4o/05419228800-a4o.jpg?ts=1718779748915&w=800"
+    },
+    {
+      "id": "8",
+      "name": "Plush bermuda shorts",
+      "price": 15.99,
+      "color": "000",
+      "size": [
+        "S",
+        "L",
+        "XL"
+      ],
+      "category": "Shorts",
+      "image": "https://static.bershka.net/4/photos2/2024/V/0/2/p/3378/498/800/3378498800_2_4_0.jpg?imwidth=800&ts=1715075237283"
+    },
+    {
+      "id": "9",
+      "name": "Hoodie",
+      "price": 22.99,
+      "color": "E5D7D5",
+      "size": [
+        "XS",
+        "S",
+        "M"
+      ],
+      "category": "Hoodies_Sweatshirts",
+      "image": "https://static.bershka.net/assets/public/1a44/9ef6/899f44c9a86c/453aac5526c9/07368190902-a4o/07368190902-a4o.jpg?ts=1719405845538&w=800"
+    },
+    {
+      "id": "10",
+      "name": "Zip sweatshirt",
+      "price": 29.99,
+      "color": "33251B",
+      "size": [
+        "S",
+        "L",
+        "XL"
+      ],
+      "category": "Hoodies_Sweatshirts",
+      "image": "https://static.bershka.net/assets/public/8b4d/eb5b/38584bb0af6c/257a486529da/07042190737-a4o/07042190737-a4o.jpg?ts=1720434942938&w=800"
+    },
+    {
+      "id": "11",
+      "name": "Printed short sleeve plush T-shirt",
+      "price": 29.99,
+      "color": "4D6A82",
+      "size": [
+        "XS",
+        "S",
+        "M"
+      ],
+      "category": "Shirts",
+      "image": "https://static.bershka.net/assets/public/c055/7b17/5d9a496bbe7d/fb01e109d561/07379127401-a4o/07379127401-a4o.jpg?ts=1719387031219&w=800"
+    },
+    {
+      "id": "12",
+      "name": "Faded zip up hoodie",
+      "price": 32.99,
+      "color": "2F2D30",
+      "size": [
+        "S",
+        "L",
+        "XL"
+      ],
+      "category": "Hoodies_Sweatshirts",
+      "image": "https://static.bershka.net/assets/public/a364/d3bb/75d0486b970a/2ad7728e3230/07043732818-a4o/07043732818-a4o.jpg?ts=1720077471192&w=800"
+    },
+    {
+      "id": "13",
+      "name": "Printed short sleeve plush T-shirt",
+      "price": 22.99,
+      "color": "FFF",
+      "size": [
+        "XS",
+        "S",
+        "M"
+      ],
+      "category": "Shirts",
+      "image": "https://static.bershka.net/assets/public/72e7/1f1b/e15e4fe29490/b4d6519c496b/08049538250-a4o/08049538250-a4o.jpg?ts=1719831424768&w=800"
+    },
+    {
+      "id": "14",
+      "name": "Long Wool Overcoat",
+      "price": 29.99,
+      "color": "07313E",
+      "size": [
+        "S",
+        "L",
+        "XL"
+      ],
+      "category": "Hoodies_Sweatshirts",
+      "image": "https://static.bershka.net/assets/public/3dc4/b374/f7634804b9f8/4f8dd20fe667/07372190442-a4o/07372190442-a4o.jpg?ts=1720436088922&w=800"
+    },
+    {
+      "id": "15",
+      "name": "Printed sweatshirt",
+      "price": 25.99,
+      "color": "FFF",
+      "size": [
+        "XS",
+        "S",
+        "M"
+      ],
+      "category": "Hoodies_Sweatshirts",
+      "image": "https://static.bershka.net/assets/public/f15f/7ae5/667248c2ae7b/8bc87b6f46eb/02285498754-a4o/02285498754-a4o.jpg?ts=1719920916446&w=800"
+    }
+  ],
+  "cart": [
+    {
+      "id": "0.013855568567395782",
+      "quantity": 5,
+      "size": "s",
+      "product": {
+        "id": "2",
+        "name": "Wide fit tailored Bermuda shorts",
+        "price": 29.99,
+        "color": "000",
+        "size": [
+          "S",
+          "L",
+          "XL"
+        ],
+        "category": "Shorts",
+        "image": "https://static.bershka.net/4/photos2/2024/V/0/2/p/3344/602/800/3344602800_2_4_0.jpg?imwidth=800&ts=1715072276437"
+      },
+      "userId": "f4465e6f-148f-4418-9ace-4840fb4774e0"
+    },
+    {
+      "id": "0.8357635343406973",
+      "quantity": 1,
+      "size": "s",
+      "product": {
+        "id": "4",
+        "name": "Tailored jogging trousers",
+        "price": 29.99,
+        "color": "211815",
+        "size": [
+          "S",
+          "L",
+          "XL"
+        ],
+        "category": "Trousers",
+        "image": "https://static.bershka.net/assets/public/31f4/6cda/90764e2d9c6c/ab3fe231fa19/05419228700-a4o/05419228700-a4o.jpg?ts=1718779747858&w=800"
+      },
+      "userId": "db597323-baf8-4c7b-8c52-770929869aea"
+    }
+  ],
+  "users": [
+    {
+      "id": "f4465e6f-148f-4418-9ace-4840fb4774e0",
+      "firstName": "ulkar",
+      "lastName": "aghayeva",
+      "userName": "ulkar",
+      "password": "12345678"
+    },
+    {
+      "id": "ee034def-aee8-4831-bcb9-e7ebf8710c77",
+      "firstName": "esed",
+      "lastName": "babayev",
+      "userName": "esed",
+      "password": "12345678"
+    },
+    {
+      "id": "db597323-baf8-4c7b-8c52-770929869aea",
+      "firstName": "orxan",
+      "lastName": "fettayev",
+      "userName": "orxan",
+      "password": "12345678"
+    }
+  ]
+}
